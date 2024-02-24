@@ -5,7 +5,7 @@
 ### Valentine's Delights DEMO
 - **説明:** ブラウザでプレイ可能なノベルゲームのデモ版です。
 - **github:** https://github.com/KeisukeMitome/Novelgame-with-Nextjs
-- **リンク:** https://valentinesdelights-ivory.vercel.app
+- **リンク:** https://valentinesdelights-ivory.vercel.app/
 <img src="https://github.com/KeisukeMitome/mygame1/assets/107669579/7bad744e-cb15-4f1c-9c6f-681e4567215c" width="250px">
 <img src="https://github.com/KeisukeMitome/mygame1/assets/107669579/049e1735-8cb0-4bff-abcf-4dea18739dab" width="250px">
 
