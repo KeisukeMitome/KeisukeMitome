@@ -1,16 +1,27 @@
-### Hi there 👋
+## 自己紹介
+現在、webアプリの勉強に励んでいます。今後は、Androidアプリやゲームの開発なども行う予定です。
 
-<!--
-**KeisukeMitome/KeisukeMitome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## プロジェクト
+### Valentine's Delights DEMO
+- **説明:** ブラウザでプレイ可能なノベルゲームのデモ版です。
+- **github:** https://github.com/KeisukeMitome/Novelgame-with-Nextjs
+- **リンク:** https://valentinesdelights-ivory.vercel.app/
+<img src="https://github.com/KeisukeMitome/mygame1/assets/107669579/7bad744e-cb15-4f1c-9c6f-681e4567215c" width="250px">
+<img src="https://github.com/KeisukeMitome/mygame1/assets/107669579/049e1735-8cb0-4bff-abcf-4dea18739dab" width="250px">
 
-Here are some ideas to get you started:
+## 言語
+- java
+- typescript
+- javascript
+- html
+- css
+- C言語
+- C#
+- Ruby
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 技術経験
+- Next.js
+- Ruby on Rails
+- unity
+
